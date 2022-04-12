@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
   margin: 0vw 5vw 0px 5vw;
   padding: 10px;
-  font-family: 'Overpass Mono', monospace, sans-serif;
-  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
   background-image: url("https://i.pinimg.com/1200x/0b/5a/64/0b5a64ee9deba25c9d0ef948522914ec.jpg");
   color: white;
   text-align:center;
@@ -69,7 +69,7 @@ h4 {
 
 .footerImage {
   width: 100%;
-  height: 120px;
+  height: 150px;
   object-fit: cover;
   border-radius: 10px;
 }
